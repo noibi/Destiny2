@@ -1,0 +1,403 @@
+title:God Rolls
+description:The perfect Weapon Roll
+
+// Under Your Skin - Under Your Skin: PvE: S | PvP: - (god-pve)
+//notes: PvE MW => Draw Time
+PvE MW => Draw Time tags:god-pve
+dimwishlist:item=232928045&perks=2801223209,3429800428,201365942,2652708987
+dimwishlist:item=232928045&perks=2801223209,3429800428,201365942,1048183818
+dimwishlist:item=232928045&perks=2801223209,3429800428,201365942,2848615171
+dimwishlist:item=232928045&perks=2801223209,3827198035,201365942,2652708987
+dimwishlist:item=232928045&perks=2801223209,3827198035,201365942,1048183818
+dimwishlist:item=232928045&perks=2801223209,3827198035,201365942,2848615171
+dimwishlist:item=232928045&perks=4067834857,3429800428,201365942,2652708987
+dimwishlist:item=232928045&perks=4067834857,3429800428,201365942,1048183818
+dimwishlist:item=232928045&perks=4067834857,3429800428,201365942,2848615171
+dimwishlist:item=232928045&perks=4067834857,3827198035,201365942,2652708987
+dimwishlist:item=232928045&perks=4067834857,3827198035,201365942,1048183818
+dimwishlist:item=232928045&perks=4067834857,3827198035,201365942,2848615171
+
+
+// Under Your Skin - Under Your Skin: PvE: S | PvP: - (god-pvp)
+//notes: PvE MW => Draw Time
+PvP MW => Draw Time tags:god-pvp
+dimwishlist:item=232928045&perks=2801223209,3429800428,201365942,2652708987
+dimwishlist:item=232928045&perks=2801223209,3429800428,201365942,47981717
+dimwishlist:item=232928045&perks=2801223209,3827198035,201365942,2652708987
+dimwishlist:item=232928045&perks=2801223209,3827198035,201365942,47981717
+dimwishlist:item=232928045&perks=4067834857,3429800428,201365942,2652708987
+dimwishlist:item=232928045&perks=4067834857,3429800428,201365942,47981717
+dimwishlist:item=232928045&perks=4067834857,3827198035,201365942,2652708987
+dimwishlist:item=232928045&perks=4067834857,3827198035,201365942,47981717
+
+
+// Pointed Inquiry - Pointed Inquiry: PvE: B | PvP: - (god-pve)
+//notes: PvE MW => Stability tags:god-pve
+dimwishlist:item=297296830&perks=839105230,1885400500,3096702027,1048183818
+
+
+// Cantata-57 - Cantata-57: PvE: - | PvP: A (god-pvp)
+//notes: PvP MW => Range tags:god-pvp
+dimwishlist:item=372697604&perks=4090651448,3142289711,699525795,47981717
+dimwishlist:item=372697604&perks=4090651448,3142289711,699525795,2846385770
+
+
+// Duty Bound - Duty Bound: PvE: A | PvP: - (god-pve)
+//notes: PvE MW => Reload Speed
+PvP MW => Range tags:god-pve
+dimwishlist:item=435216110&perks=839105230,106909392,1583705720,4049631843
+
+
+// Duty Bound - Duty Bound: PvE: A | PvP: - (god-pvp)
+//notes: PvE MW => Reload Speed
+PvP MW => Range tags:god-pvp
+dimwishlist:item=435216110&perks=839105230,3142289711,1428297954,3425386926
+
+
+// Scathelocke - PvE: - | PvP: A (god-pve)
+//notes: PvE MW => Reload Speed
+PvP MW => Range, Stability tags:god-pve
+dimwishlist:item=602618796&perks=3250034553,106909392,1820235745,3425386926
+dimwishlist:item=602618796&perks=1482024992,106909392,1820235745,3425386926
+
+
+// Scathelocke - PvE: - | PvP: A (god-pvp)
+//notes: PvE MW => Reload Speed
+PvP MW => Range, Stability tags:god-pvp
+dimwishlist:item=602618796&perks=3250034553,3142289711,2946784966,3425386926
+dimwishlist:item=602618796&perks=3250034553,3142289711,2946784966,2458213969
+dimwishlist:item=602618796&perks=3250034553,3142289711,1570042021,3425386926
+dimwishlist:item=602618796&perks=3250034553,3142289711,1570042021,2458213969
+dimwishlist:item=602618796&perks=1482024992,3142289711,2946784966,3425386926
+dimwishlist:item=602618796&perks=1482024992,3142289711,2946784966,2458213969
+dimwishlist:item=602618796&perks=1482024992,3142289711,1570042021,3425386926
+dimwishlist:item=602618796&perks=1482024992,3142289711,1570042021,2458213969
+
+
+// Forbearance - Forbearance: PvE: S | PvP: - (god-pve)
+//notes: PvE MW => Reload Speed tags:god-pve
+dimwishlist:item=613334176&perks=3525010810,2822142346,3797647183,2396489472
+
+
+// Servant Leader - PvE: A | PvP: A (god-pve)
+//notes: PvE MW => Range
+PvP MW => Range tags:god-pve
+dimwishlist:item=1107446438&perks=1840239774,2420895100,247725512,1015611457
+
+
+// Servant Leader - PvE: A | PvP: A (god-pvp)
+//notes: PvE MW => Range
+PvP MW => Range tags:god-pvp
+dimwishlist:item=1107446438&perks=4090651448,3142289711,247725512,1015611457
+dimwishlist:item=1107446438&perks=4090651448,3142289711,247725512,3425386926
+dimwishlist:item=1107446438&perks=839105230,3142289711,247725512,1015611457
+dimwishlist:item=1107446438&perks=839105230,3142289711,247725512,3425386926
+
+
+// Frontier's Cry - Frontier's Cry: PvE: B | PvP: B (god-pve)
+//notes: PvE MW => Reload Speed
+PvP MW => Range tags:god-pve
+dimwishlist:item=1141547457&perks=4090651448,1087426260,1048183818,4049631843
+
+
+// Frontier's Cry - Frontier's Cry: PvE: B | PvP: B (god-pvp)
+//notes: PvE MW => Reload Speed
+PvP MW => Range tags:god-pvp
+dimwishlist:item=1141547457&perks=839105230,3142289711,247725512,3673922083
+dimwishlist:item=1141547457&perks=839105230,3142289711,247725512,1015611457
+
+
+// Sweet Sorrow - Sweet Sorrow: PvE: A | PvP: - (god-pve)
+//notes: PvE MW => Any
+PvP MW => Range tags:god-pve
+dimwishlist:item=1248372789&perks=839105230,3230963543,1428297954,3523296417
+dimwishlist:item=1248372789&perks=839105230,3230963543,1428297954,4049631843
+dimwishlist:item=1248372789&perks=839105230,3230963543,1583705720,3523296417
+dimwishlist:item=1248372789&perks=839105230,3230963543,1583705720,4049631843
+
+
+// Sweet Sorrow - Sweet Sorrow: PvE: A | PvP: - (god-pvp)
+//notes: PvE MW => Any
+PvP MW => Range tags:god-pvp
+dimwishlist:item=1248372789&perks=839105230,3142289711,2450788523,1890422124
+
+
+// Herod-C - Herod-C: PvE: C | PvP: C (god-pve)
+//notes: PvE MW => Reload Speed
+PvP MW => Stability tags:god-pve
+dimwishlist:item=1788603939&perks=839105230,1561002382,1820235745,3523296417
+
+
+// Herod-C - Herod-C: PvE: C | PvP: C (god-pvp)
+//notes: PvE MW => Reload Speed
+PvP MW => Stability tags:god-pvp
+dimwishlist:item=1788603939&perks=839105230,1885400500,1359896290,3511092054
+dimwishlist:item=1788603939&perks=839105230,1885400500,1359896290,1890422124
+
+
+// Likely Suspect - Likely Suspect: PvE: - | PvP: A (god-pve)
+//notes: PvE MW => Reload Speed
+PvP MW => Charge tags:god-pve
+dimwishlist:item=1994645182&perks=3661387068,2680121939,1428297954,3592538738
+
+
+// Likely Suspect - Likely Suspect: PvE: - | PvP: A (god-pvp)
+//notes: PvE MW => Reload Speed
+PvP MW => Charge tags:god-pvp
+dimwishlist:item=1994645182&perks=839105230,689005463,280464955,2652708987
+
+
+// Piece of Mind - Piece of Mind: PvE: - | PvP: A (god-pve)
+//notes: PvE MW => Reload Speed
+PvP MW => Depends on Subclass tags:god-pve
+dimwishlist:item=2097055732&perks=3250034553,1561002382,1583705720,11612903
+dimwishlist:item=2097055732&perks=3250034553,1968497646,1583705720,11612903
+
+
+// Piece of Mind - Piece of Mind: PvE: - | PvP: A (god-pvp)
+//notes: PvE MW => Reload Speed
+PvP MW => Depends on Subclass#
+
+Barrel depends on Subclass tags:god-pvp
+dimwishlist:item=2097055732&perks=1885400500,1428297954,3511092054
+dimwishlist:item=2097055732&perks=1561002382,1428297954,3511092054
+
+
+// Fatebringer - PvE: S | PvP: S (god-pve)
+//notes: PvE MW => Range
+PvP MW => Range tags:god-pve
+dimwishlist:item=2171478765&perks=4090651448,3142289711,3038247973,3824105627
+dimwishlist:item=2171478765&perks=4090651448,3142289711,3038247973,1015611457
+dimwishlist:item=2171478765&perks=4090651448,106909392,3038247973,3824105627
+dimwishlist:item=2171478765&perks=4090651448,106909392,3038247973,1015611457
+dimwishlist:item=2171478765&perks=202670084,3142289711,3038247973,3824105627
+dimwishlist:item=2171478765&perks=202670084,3142289711,3038247973,1015611457
+dimwishlist:item=2171478765&perks=202670084,106909392,3038247973,3824105627
+dimwishlist:item=2171478765&perks=202670084,106909392,3038247973,1015611457
+dimwishlist:item=2171478765&perks=3250034553,3142289711,3038247973,3824105627
+dimwishlist:item=2171478765&perks=3250034553,3142289711,3038247973,1015611457
+dimwishlist:item=2171478765&perks=3250034553,106909392,3038247973,3824105627
+dimwishlist:item=2171478765&perks=3250034553,106909392,3038247973,1015611457
+
+
+// Fatebringer - PvE: S | PvP: S (god-pvp)
+//notes: PvE MW => Range
+PvP MW => Range tags:god-pvp
+dimwishlist:item=2171478765&perks=4090651448,3142289711,3038247973,47981717
+dimwishlist:item=2171478765&perks=4090651448,3142289711,3038247973,1015611457
+dimwishlist:item=2171478765&perks=4090651448,3142289711,2946784966,47981717
+dimwishlist:item=2171478765&perks=4090651448,3142289711,2946784966,1015611457
+dimwishlist:item=2171478765&perks=202670084,3142289711,3038247973,47981717
+dimwishlist:item=2171478765&perks=202670084,3142289711,3038247973,1015611457
+dimwishlist:item=2171478765&perks=202670084,3142289711,2946784966,47981717
+dimwishlist:item=2171478765&perks=202670084,3142289711,2946784966,1015611457
+
+
+// Ogma PR6 - Ogma PR6: PvE: B | PvP: - (god-pve)
+//notes: PvE MW => Reload Speed
+PvP MW => Range, Stability tags:god-pve
+dimwishlist:item=2342054803&perks=839105230,106909392,3523296417,1683379515
+dimwishlist:item=2342054803&perks=839105230,106909392,3523296417,2848615171
+dimwishlist:item=2342054803&perks=839105230,106909392,3523296417,11612903
+dimwishlist:item=2342054803&perks=839105230,106909392,1048183818,1683379515
+dimwishlist:item=2342054803&perks=839105230,106909392,1048183818,2848615171
+dimwishlist:item=2342054803&perks=839105230,106909392,1048183818,11612903
+dimwishlist:item=2342054803&perks=839105230,1087426260,3523296417,1683379515
+dimwishlist:item=2342054803&perks=839105230,1087426260,3523296417,2848615171
+dimwishlist:item=2342054803&perks=839105230,1087426260,3523296417,11612903
+dimwishlist:item=2342054803&perks=839105230,1087426260,1048183818,1683379515
+dimwishlist:item=2342054803&perks=839105230,1087426260,1048183818,2848615171
+dimwishlist:item=2342054803&perks=839105230,1087426260,1048183818,11612903
+dimwishlist:item=2342054803&perks=1840239774,106909392,3523296417,1683379515
+dimwishlist:item=2342054803&perks=1840239774,106909392,3523296417,2848615171
+dimwishlist:item=2342054803&perks=1840239774,106909392,3523296417,11612903
+dimwishlist:item=2342054803&perks=1840239774,106909392,1048183818,1683379515
+dimwishlist:item=2342054803&perks=1840239774,106909392,1048183818,2848615171
+dimwishlist:item=2342054803&perks=1840239774,106909392,1048183818,11612903
+dimwishlist:item=2342054803&perks=1840239774,1087426260,3523296417,1683379515
+dimwishlist:item=2342054803&perks=1840239774,1087426260,3523296417,2848615171
+dimwishlist:item=2342054803&perks=1840239774,1087426260,3523296417,11612903
+dimwishlist:item=2342054803&perks=1840239774,1087426260,1048183818,1683379515
+dimwishlist:item=2342054803&perks=1840239774,1087426260,1048183818,2848615171
+dimwishlist:item=2342054803&perks=1840239774,1087426260,1048183818,11612903
+
+
+// Ogma PR6 - Ogma PR6: PvE: B | PvP: - (god-pvp)
+//notes: PvE MW => Reload Speed
+PvP MW => Range, Stability tags:god-pvp
+dimwishlist:item=2342054803&perks=839105230,3142289711,3523296417,11612903
+dimwishlist:item=2342054803&perks=839105230,3142289711,1428297954,11612903
+
+
+// The Enigma - The Enigma: PvE: A | PvP: - (god-pve)
+//notes: PvE MW => Handling tags:god-pve
+dimwishlist:item=2595497736&perks=1263609309,1087426260,1631667848,4104185692
+dimwishlist:item=2595497736&perks=1263609309,1087426260,402033656,4104185692
+
+
+// Aisha's Embrace - Aisha's Embrace: PvE: A | PvP: - (god-pve)
+//notes: PvE MW => Reload Speed
+PvP MW => Stability tags:god-pve
+dimwishlist:item=2638190703&perks=4090651448,3230963543,3400784728,1354429876
+
+
+// Aisha's Embrace - Aisha's Embrace: PvE: A | PvP: - (god-pvp)
+//notes: PvE MW => Reload Speed
+PvP MW => Stability tags:god-pvp
+dimwishlist:item=2638190703&perks=1482024992,1561002382,1428297954,699525795
+
+
+// Fortissimo-11 - Fortissimo-11: PvE: - | PvP: A (god-pve)
+//notes: PvE MW => Range, Handling
+PvP MW => Range, Handling tags:god-pve
+dimwishlist:item=2821430069&perks=1840239774,791862061,1354429876,4104185692
+
+
+// Fortissimo-11 - Fortissimo-11: PvE: - | PvP: A (god-pvp)
+//notes: PvE MW => Range, Handling
+PvP MW => Range, Handling tags:god-pvp
+dimwishlist:item=2821430069&perks=1840239774,791862061,3108830275,3673922083
+
+
+// Krait - Krait: PvE: A | PvP: - (god-pve)
+//notes: PvE MW => Range tags:god-pve
+dimwishlist:item=2852052802&perks=839105230,1087426260,3643424744,124408337
+dimwishlist:item=2852052802&perks=839105230,1087426260,3643424744,4049631843
+dimwishlist:item=2852052802&perks=839105230,1087426260,3643424744,3673922083
+dimwishlist:item=2852052802&perks=839105230,1087426260,1583705720,124408337
+dimwishlist:item=2852052802&perks=839105230,1087426260,1583705720,4049631843
+dimwishlist:item=2852052802&perks=839105230,1087426260,1583705720,3673922083
+dimwishlist:item=2852052802&perks=839105230,1561002382,3643424744,124408337
+dimwishlist:item=2852052802&perks=839105230,1561002382,3643424744,4049631843
+dimwishlist:item=2852052802&perks=839105230,1561002382,3643424744,3673922083
+dimwishlist:item=2852052802&perks=839105230,1561002382,1583705720,124408337
+dimwishlist:item=2852052802&perks=839105230,1561002382,1583705720,4049631843
+dimwishlist:item=2852052802&perks=839105230,1561002382,1583705720,3673922083
+
+
+// Syncopation-53 - Syncopation-53: PvE: - | PvP: B (god-pve)
+//notes: PvE MW => Range
+PvP MW => Range tags:god-pve
+dimwishlist:item=2856514843&perks=3250034553,1885400500,588594999,4104185692
+
+
+// Syncopation-53 - Syncopation-53: PvE: - | PvP: B (god-pvp)
+//notes: PvE MW => Range
+PvP MW => Range tags:god-pvp
+dimwishlist:item=2856514843&perks=3250034553,1885400500,588594999,2846385770
+
+
+// Crisis Inverted - Crisis Inverted: PvE: - | PvP: B (god-pvp)
+//notes: PvP MW => Range tags:god-pvp
+dimwishlist:item=2888266564&perks=3250034553,1885400500,247725512,2846385770
+dimwishlist:item=2888266564&perks=3250034553,1885400500,247725512,957782887
+dimwishlist:item=2888266564&perks=3250034553,1885400500,588594999,2846385770
+dimwishlist:item=2888266564&perks=3250034553,1885400500,588594999,957782887
+dimwishlist:item=2888266564&perks=1482024992,1885400500,247725512,2846385770
+dimwishlist:item=2888266564&perks=1482024992,1885400500,247725512,957782887
+dimwishlist:item=2888266564&perks=1482024992,1885400500,588594999,2846385770
+dimwishlist:item=2888266564&perks=1482024992,1885400500,588594999,957782887
+
+
+// Reckless Endangerment - Reckless Endangerment: B (pve,pvp)
+//notes: Fixed Roll tags:pve,pvp
+dimwishlist:item=3216652511&perks=
+
+
+// Funnelweb - Funnelweb: PvE: S | PvP: - (god-pve)
+//notes: PvE MW => Reload, Handling, Range tags:god-pve
+dimwishlist:item=3341893443&perks=3250034553,3142289711,1820235745,11612903
+dimwishlist:item=3341893443&perks=3250034553,3142289711,1820235745,4104185692
+dimwishlist:item=3341893443&perks=3250034553,3142289711,1428297954,11612903
+dimwishlist:item=3341893443&perks=3250034553,3142289711,1428297954,4104185692
+
+
+// Silicon Neuroma - Silicon Neuroma: PvE: - | PvP: A (god-pvp)
+//notes: PvP MW => Range, Handling tags:god-pvp
+dimwishlist:item=3355385170&perks=3250034553,1885400500,957782887,47981717
+dimwishlist:item=3355385170&perks=3250034553,1087426260,957782887,47981717
+dimwishlist:item=3355385170&perks=1840239774,1885400500,957782887,47981717
+dimwishlist:item=3355385170&perks=1840239774,1087426260,957782887,47981717
+
+
+// Insidious - Insidious: PvE: S | PvP: S (god-pve)
+//notes: PvE: MW => Stability/Handling
+PvP: MW => Handling tags:god-pve
+dimwishlist:item=3428521585&perks=1840239774,3177308360,2848615171,4049631843
+
+
+// Insidious - Insidious: PvE: S | PvP: S (god-pvp)
+//notes: PvE: MW => Stability/Handling
+PvP: MW => Handling tags:god-pvp
+dimwishlist:item=3428521585&perks=1840239774,3142289711,247725512,11612903
+
+
+// Palmyra-B - Palmyra-B: PvE: S | PvP: S (god-pve)
+//notes: PvE MW => Velocity
+PvP MW => Velocity tags:god-pve
+dimwishlist:item=3489657138&perks=1478423395,3796465595,3300816228,3194351027
+
+
+// Palmyra-B - Palmyra-B: PvE: S | PvP: S (god-pvp)
+//notes: PvE MW => Velocity
+PvP MW => Velocity tags:god-pvp
+dimwishlist:item=3489657138&perks=3525010810,2822142346,3878366039,2396489472
+
+
+// Father's Sins - Father's Sins: PvE: - | PvP: A (god-pve)
+//notes: PvE MW => Reload Speed
+PvP MW => Handling tags:god-pve
+dimwishlist:item=3865728990&perks=1840239774,2420895100,3400784728,2896038713
+
+
+// Father's Sins - Father's Sins: PvE: - | PvP: A (god-pvp)
+//notes: PvE MW => Reload Speed
+PvP MW => Handling tags:god-pvp
+dimwishlist:item=3865728990&perks=1840239774,3142289711,1645158859,47981717
+dimwishlist:item=3865728990&perks=1840239774,3142289711,1645158859,957782887
+dimwishlist:item=3865728990&perks=1840239774,3142289711,2866798147,47981717
+dimwishlist:item=3865728990&perks=1840239774,3142289711,2866798147,957782887
+
+
+// Thoughtless - Thoughtless: PvE: A | PvP: A (god-pve)
+//notes: PvE MW => Handling
+PvP MW => Range tags:god-pve
+dimwishlist:item=4067556514&perks=1840239774,1087426260,3643424744,1771339417
+dimwishlist:item=4067556514&perks=1840239774,1087426260,3643424744,2896038713
+
+
+// Thoughtless - Thoughtless: PvE: A | PvP: A (god-pvp)
+//notes: PvE MW => Handling
+PvP MW => Range tags:god-pvp
+dimwishlist:item=4067556514&perks=1840239774,3142289711,1428297954,957782887
+
+
+// Explosive Personality - Explosive Personality: PvE: A | PvP: - (god-pve)
+//notes: PvE MW => any tags:god-pve
+dimwishlist:item=4096943616&perks=3525010810,2822142346,3300816228,4049631843
+dimwishlist:item=4096943616&perks=3525010810,2822142346,3300816228,1683379515
+dimwishlist:item=4096943616&perks=3525010810,3492396210,3300816228,4049631843
+dimwishlist:item=4096943616&perks=3525010810,3492396210,3300816228,1683379515
+dimwishlist:item=4096943616&perks=981914802,2822142346,3300816228,4049631843
+dimwishlist:item=4096943616&perks=981914802,2822142346,3300816228,1683379515
+dimwishlist:item=4096943616&perks=981914802,3492396210,3300816228,4049631843
+dimwishlist:item=4096943616&perks=981914802,3492396210,3300816228,1683379515
+
+
+// Snorri FR5 - Snorri FR5: PvE: - | PvP: S (god-pvp)
+//notes: PvP MW => Stability tags:god-pvp
+dimwishlist:item=4114929480&perks=839105230,689005463,280464955,2213355989
+
+
+// Ragnhild-D - Ragnhild-D: PvE: - | PvP: A (god-pvp)
+//notes: PvP MW => Range tags:god-pvp
+dimwishlist:item=4225322581&perks=1482024992,3142289711,1820235745,3511092054
+dimwishlist:item=4225322581&perks=1482024992,3142289711,1820235745,2679249093
+dimwishlist:item=4225322581&perks=1482024992,3142289711,1428297954,3511092054
+dimwishlist:item=4225322581&perks=1482024992,3142289711,1428297954,2679249093
+dimwishlist:item=4225322581&perks=1047830412,3142289711,1820235745,3511092054
+dimwishlist:item=4225322581&perks=1047830412,3142289711,1820235745,2679249093
+dimwishlist:item=4225322581&perks=1047830412,3142289711,1428297954,3511092054
+dimwishlist:item=4225322581&perks=1047830412,3142289711,1428297954,2679249093
+
+
